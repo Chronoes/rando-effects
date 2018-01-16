@@ -1,6 +1,6 @@
 # Usage
 
-URL [https://rando.tarkin.me]()
+URL [https://rando.tarkin.me](https://rando.tarkin.me)
 
 In order for effects to work, an entry must be added to the list.
 
