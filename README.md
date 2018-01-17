@@ -1,6 +1,7 @@
 # Usage
 
-URL [https://rando.tarkin.me](https://rando.tarkin.me)
+URL [https://rando.tarkin.me](https://rando.tarkin.me)<br>
+Source code [https://github.com/Chronoes/reward-ui](https://github.com/Chronoes/reward-ui)
 
 In order for effects to work, an entry must be added to the list.
 
